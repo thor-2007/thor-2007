@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thor-2007
 - 👀 I’m interested in learning new things.
-- 🌱 I’m currently learning Javascript, html, css, nodejs, python.
+- 🌱 I’m currently learning javascript, html, css, bootstrap, nodejs, python.
 - 😄 Pronouns: Man.
 - ⚡ Fun fact: I have a phobia for ketchup, it's complicated.
 
