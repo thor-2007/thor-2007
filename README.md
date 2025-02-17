@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thor-2007
-- 👀 I’m interested in frontend developing, cars, motorcycles, and music.
-- 🌱 I’m currently learning javascript, html, css, bootstrap, nodejs, python.
+- 👀 I’m interested in computers, cars, motorcycles, and music.
+- 🌱 I’m currently learning javascript, html, css, bootstrap framework, nodejs, python.
 - 😄 Pronouns: Man.
 - ⚡ Fun fact: I have a phobia for ketchup, it's complicated....
 
