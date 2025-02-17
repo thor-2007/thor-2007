@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thor-2007
+- 👋 Hi, I’m @thor-2007 a beginner coder here.
 - 👀 I’m interested in computers, cars, motorcycles, and music.
 - 🌱 I’m currently learning javascript, html, css, bootstrap framework, nodejs, python.
 - 😄 Pronouns: Man.
